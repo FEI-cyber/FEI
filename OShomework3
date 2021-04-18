@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T15:06:09.724Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" version="14.6.0" etag="yPMfOsHjVsfV2o2IZe4s" type="github"><diagram id="OAc6h6pu5ApAzTencly9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-18T15:10:40.624Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="dtKFwRXMZdWsK3NwVD5z" version="14.6.0" type="github">
+  <diagram id="OAc6h6pu5ApAzTencly9" name="Page-1">
+    <mxGraphModel dx="534" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sIDOLOvzW3w6Hugkb4Ts-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.259;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sIDOLOvzW3w6Hugkb4Ts-8" target="sIDOLOvzW3w6Hugkb4Ts-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439.99999999999994" y="470" as="sourcePoint" />
+            <mxPoint x="439.99999999999994" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIDOLOvzW3w6Hugkb4Ts-7" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.33" y="540" as="sourcePoint" />
+            <mxPoint x="404.33" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sIDOLOvzW3w6Hugkb4Ts-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=none;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="299" y="260" width="211" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="sIDOLOvzW3w6Hugkb4Ts-3" value="Text segment" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="310" y="760" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sIDOLOvzW3w6Hugkb4Ts-4" value="Data segment" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="309.5" y="690" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sIDOLOvzW3w6Hugkb4Ts-5" value="Bss segment" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="309.5" y="620" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sIDOLOvzW3w6Hugkb4Ts-6" value="Heap" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="309.5" y="530" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sIDOLOvzW3w6Hugkb4Ts-8" value="Stack" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="309.5" y="280" width="190" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
